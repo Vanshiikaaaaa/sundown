@@ -838,4 +838,11 @@ nav h3 {
     background-size: cover;
     background-position: center;
   }
+
+  #loader h1{
+    position: absolute;
+    top: 45vh;
+    left: 26vw;
+    text-align: center;
+  }
 }
